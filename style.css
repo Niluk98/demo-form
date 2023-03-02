@@ -26,10 +26,12 @@
 .container .navbar .logo{
     position: absolute;
     color: #fff;
-    top: 20px;
-    right: 1440px;
+    top: 30px;
+    left: 60px;
     /* padding: 10px; */
     font-size: 1.5em;
+    color: orange;
+    letter-spacing: 10px;
     
 }
 
@@ -208,7 +210,7 @@
 }
 .container .bottom .text{
     position: absolute;
-    right: 1050px;
+    left: 50px;
     /* background-color: aqua; */
     width: 500px;
     height: 500px;
