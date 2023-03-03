@@ -246,5 +246,36 @@ body{
     font-size: 1.8em;
     letter-spacing: 1.5px;
 }
+@media screen and (max-width:1400px) {
+    .container .navbar{
+        /* background-color: red; */
+        height: 300px;
+    }
+    
+    .container .navbar ul{
+        top: 30px;
+    }
+    .container .navbar ul li {
+        display: block;
+    }
+    .container .bottom .text{
+        width: 200px;
+
+    }
+    .container .bottom .text h2 {
+        font-size: 1.2em;
+    }
+    .container .bottom .text h2 span {
+        font-size: 1.5em;
+    }
+    .container .bottom .text p{
+        font-size: 1em;
+    }
+    .container .bottom .form{
+        right: 100px;
+    }
+
+
+}
 
 
